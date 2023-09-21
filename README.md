@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-This is a small change made to this file to practice using git.
+First repo test on the app.
